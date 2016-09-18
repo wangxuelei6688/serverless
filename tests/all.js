@@ -11,7 +11,7 @@ require('./classes/YamlParser');
 require('./classes/CLI');
 
 // Core Plugins Tests
-require('../lib/plugins/create/tests/init');
+require('../lib/plugins/init/tests');
 require('../lib/plugins/create/tests/create');
 require('../lib/plugins/deploy/tests/deploy');
 require('../lib/plugins/info/tests/info');
