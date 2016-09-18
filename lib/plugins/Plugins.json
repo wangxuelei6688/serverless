@@ -1,5 +1,6 @@
 {
   "plugins": [
+    "./init/index.js",
     "./create/create.js",
     "./package/index.js",
     "./deploy/deploy.js",
